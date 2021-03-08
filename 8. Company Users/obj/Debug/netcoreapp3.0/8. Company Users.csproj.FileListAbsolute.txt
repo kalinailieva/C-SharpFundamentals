@@ -1,0 +1,11 @@
+C:\Users\Ivan\Desktop\projects\C# Fundamentals\7 - Associative Arrays, lambda, Linq\Ass arrays Exercise\01. Count Chars in a String\8. Company Users\bin\Debug\netcoreapp3.0\8. Company Users.exe
+C:\Users\Ivan\Desktop\projects\C# Fundamentals\7 - Associative Arrays, lambda, Linq\Ass arrays Exercise\01. Count Chars in a String\8. Company Users\bin\Debug\netcoreapp3.0\8. Company Users.deps.json
+C:\Users\Ivan\Desktop\projects\C# Fundamentals\7 - Associative Arrays, lambda, Linq\Ass arrays Exercise\01. Count Chars in a String\8. Company Users\bin\Debug\netcoreapp3.0\8. Company Users.runtimeconfig.json
+C:\Users\Ivan\Desktop\projects\C# Fundamentals\7 - Associative Arrays, lambda, Linq\Ass arrays Exercise\01. Count Chars in a String\8. Company Users\bin\Debug\netcoreapp3.0\8. Company Users.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\projects\C# Fundamentals\7 - Associative Arrays, lambda, Linq\Ass arrays Exercise\01. Count Chars in a String\8. Company Users\bin\Debug\netcoreapp3.0\8. Company Users.dll
+C:\Users\Ivan\Desktop\projects\C# Fundamentals\7 - Associative Arrays, lambda, Linq\Ass arrays Exercise\01. Count Chars in a String\8. Company Users\bin\Debug\netcoreapp3.0\8. Company Users.pdb
+C:\Users\Ivan\Desktop\projects\C# Fundamentals\7 - Associative Arrays, lambda, Linq\Ass arrays Exercise\01. Count Chars in a String\8. Company Users\obj\Debug\netcoreapp3.0\8. Company Users.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\projects\C# Fundamentals\7 - Associative Arrays, lambda, Linq\Ass arrays Exercise\01. Count Chars in a String\8. Company Users\obj\Debug\netcoreapp3.0\8. Company Users.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\projects\C# Fundamentals\7 - Associative Arrays, lambda, Linq\Ass arrays Exercise\01. Count Chars in a String\8. Company Users\obj\Debug\netcoreapp3.0\8. Company Users.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\projects\C# Fundamentals\7 - Associative Arrays, lambda, Linq\Ass arrays Exercise\01. Count Chars in a String\8. Company Users\obj\Debug\netcoreapp3.0\8. Company Users.dll
+C:\Users\Ivan\Desktop\projects\C# Fundamentals\7 - Associative Arrays, lambda, Linq\Ass arrays Exercise\01. Count Chars in a String\8. Company Users\obj\Debug\netcoreapp3.0\8. Company Users.pdb
